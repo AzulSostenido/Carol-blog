@@ -12,7 +12,6 @@ Template Name: carol
     <link href="<?php bloginfo('template_url'); ?>/css/fuente.css" rel="stylesheet" type="text/css" />
 
 
-
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -24,7 +23,7 @@ Template Name: carol
 
 <body id="page-top" class="index">
 
-    <!-- Header -->
+    <!-- Header en header.php -->
 <?php
 get_header(); ?>
 
