@@ -1,0 +1,21 @@
+
+.centrado{
+	width: 980px;
+	margin: 0 auto;
+}
+
+
+
+/*!
+COLORES
+ */
+ .go{  color: #d65b32;}
+ .pro{  color: #5ba692;}
+ .premium{color: #fcb21d;}
+ .gofondo{  background: #d65b32;}
+ .profondo{  background: #5ba692;}
+ .premiumfondo{  background: #fcb21d;}
+
+.menu li{
+	display:inline-block;
+}
